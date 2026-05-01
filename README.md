@@ -46,7 +46,7 @@ trading_bot/
 ## Clone Repository
 
 ```bash
-git clone <your_repo_link>
+git clone https://github.com/DiyaMaheshwari2004/trading-bot.git
 ```
 
 ## Move Into Project Folder
