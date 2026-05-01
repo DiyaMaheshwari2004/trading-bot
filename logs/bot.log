@@ -1,0 +1,19 @@
+2026-05-01 22:32:20,585 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:32:20,586 - ERROR - CLI Error: API Secret required for private endpoints
+2026-05-01 22:37:09,615 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:37:09,616 - ERROR - CLI Error: API Secret required for private endpoints
+2026-05-01 22:40:20,416 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:40:20,417 - ERROR - CLI Error: API Secret required for private endpoints
+2026-05-01 22:40:46,793 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:40:46,793 - ERROR - CLI Error: API Secret required for private endpoints
+2026-05-01 22:44:06,736 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:44:06,742 - ERROR - CLI Error: API Secret required for private endpoints
+2026-05-01 22:45:34,967 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 22:45:36,099 - INFO - Market Order Response: {'symbol': 'BTCUSDT', 'orderId': 11662512, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJb1bde17556811e7ac9d761', 'transactTime': 1777655736523, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '78.28955000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1777655736523, 'fills': [{'price': '78289.55000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 2969751}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2026-05-01 22:45:36,100 - INFO - Order completed successfully
+2026-05-01 23:26:48,036 - INFO - MARKET ORDER | Symbol=BTCUSDT Side=BUY Quantity=0.001
+2026-05-01 23:26:48,972 - INFO - Market Order Response: {'symbol': 'BTCUSDT', 'orderId': 11677469, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJa6f7db92d14dfb155f1c6f', 'transactTime': 1777658209520, 'price': '0.00000000', 'origQty': '0.00100000', 'executedQty': '0.00100000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '78.56438000', 'status': 'FILLED', 'timeInForce': 'GTC', 'type': 'MARKET', 'side': 'BUY', 'workingTime': 1777658209520, 'fills': [{'price': '78564.38000000', 'qty': '0.00100000', 'commission': '0.00000000', 'commissionAsset': 'BTC', 'tradeId': 2974601}], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2026-05-01 23:26:48,973 - INFO - Order completed successfully
+2026-05-01 23:35:38,117 - INFO - LIMIT ORDER | Symbol=BTCUSDT Side=SELL Quantity=0.001 Price=90000.0
+2026-05-01 23:35:39,246 - INFO - Limit Order Response: {'symbol': 'BTCUSDT', 'orderId': 11680677, 'orderListId': -1, 'clientOrderId': 'x-HNA2TXFJdc824ca625cc84d6a8ebac', 'transactTime': 1777658739564, 'price': '90000.00000000', 'origQty': '0.00100000', 'executedQty': '0.00000000', 'origQuoteOrderQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'SELL', 'workingTime': 1777658739564, 'fills': [], 'selfTradePreventionMode': 'EXPIRE_MAKER'}
+2026-05-01 23:35:39,249 - INFO - Order completed successfully
